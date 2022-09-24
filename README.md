@@ -1,3 +1,3 @@
 # MyCalc
 
-Simple calculater with Jetpack Compose
+Simple calculator with Jetpack Compose
